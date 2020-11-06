@@ -29,3 +29,4 @@ Company | Jobs | Office | Remote
 [SOVOS](https://sovos.com/) | https://sovos.com/careers/ | :white_check_mark: | :heavy_check_mark:
 [Vindi](https://vindi.com.br/) | https://vindi.gupy.io/ | :white_check_mark: | :heavy_check_mark:
 [Virtualmind](https://virtualmind.com/) | https://careers.virtualmind.com/ | :white_check_mark: | :heavy_check_mark:
+[Vortigo](https://vortigo.digital/) | https://vortigo.gupy.io/ | :white_check_mark: | :heavy_check_mark:
