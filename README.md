@@ -15,6 +15,7 @@ Company | Jobs | Office | Remote
 [iCasei](https://www.icasei.com.br/) | https://suporte.icasei.com.br/hc/pt-br/requests/new | :white_check_mark: | :heavy_check_mark:
 [Indeva](https://indeva.com.br/) | https://www.linkedin.com/company/indevabyvtex/jobs/ | :white_check_mark: | :heavy_check_mark:
 [IUGU](https://iugu.com/) | https://jobs.kenoby.com/iugu | :white_check_mark: | :heavy_check_mark:
+[Jungle Scout](https://www.junglescout.com/) | https://junglescout.applytojob.com/ | :white_check_mark: | :heavy_check_mark:
 [Jusbrasil](https://www.jusbrasil.com.br/home) | https://jobs.lever.co/jusbrasil | :white_check_mark: | :heavy_check_mark:
 [Monde Sistemas](https://monde.com.br/) | https://monde.com.br/vagas/ | :white_check_mark: | :heavy_check_mark:
 [Novatics](https://novatics.com.br/) | https://novatics.com.br/open-jobs | :white_check_mark: | :heavy_check_mark:
