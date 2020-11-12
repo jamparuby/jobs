@@ -8,6 +8,7 @@ Company | Jobs | Office | Remote
 [Lavanderia 60 Minutos](https://www.lavanderia60minutos.com.br) | https://github.com/paylav/jobs/issues | :heavy_check_mark: | :white_check_mark:
 [Reliant Solutions](https://reliantsolutions.com) | https://hipsters.jobs/company/68/reliant-solutions/ | :heavy_check_mark: | :white_check_mark:
  ------- | ------- | ------- | -------
+[Bio Ritmo & Smart Fit](https://www.smartfit.com.br/) | https://www.linkedin.com/company/smart-fit/jobs/ | :white_check_mark: | :heavy_check_mark: 
 [Caiena](https://caiena.net/) | https://trabalheconosco.vagas.com.br/caiena | :white_check_mark: | :heavy_check_mark:
 [EBANX](https://www.ebanx.com/) | https://boards.greenhouse.io/ebanx | :white_check_mark: | :heavy_check_mark:
 [Enjoei](https://www.enjoei.com.br/) | https://enjoei.gupy.io/ | :white_check_mark: | :heavy_check_mark:
