@@ -19,6 +19,7 @@ Company | Jobs | Office | Remote
 [James Delivery](https://jamesdelivery.com.br/) | https://james.gupy.io/ | :white_check_mark: | :heavy_check_mark:
 [Jungle Scout](https://www.junglescout.com/) | https://junglescout.applytojob.com/ | :white_check_mark: | :heavy_check_mark:
 [Jusbrasil](https://www.jusbrasil.com.br/home) | https://jobs.lever.co/jusbrasil | :white_check_mark: | :heavy_check_mark:
+[Magrathea](https://magrathealabs.com/) | https://careers.magrathealabs.com/ | :white_check_mark: | :heavy_check_mark:
 [Monde Sistemas](https://monde.com.br/) | https://monde.com.br/vagas/ | :white_check_mark: | :heavy_check_mark:
 [Novatics](https://novatics.com.br/) | https://novatics.com.br/open-jobs | :white_check_mark: | :heavy_check_mark:
 [Nuuvem](https://www.nuuvem.com/) | https://careers.nuuvem.com/ | :white_check_mark: | :heavy_check_mark: 
