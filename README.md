@@ -17,6 +17,7 @@ Company | Jobs | Office | Remote
 [Indeva](https://indeva.com.br/) | https://www.linkedin.com/company/indevabyvtex/jobs/ | :x: | :heavy_check_mark:
 [IUGU](https://iugu.com/) | https://jobs.kenoby.com/iugu | :x: | :heavy_check_mark:
 [James Delivery](https://jamesdelivery.com.br/) | https://james.gupy.io/ | :x: | :heavy_check_mark:
+[Jaya Tech](https://jaya.tech/) | https://www.linkedin.com/company/jaya-apps/jobs | :x: | :heavy_check_mark: 
 [Jungle Scout](https://www.junglescout.com/) | https://junglescout.applytojob.com/ | :x: | :heavy_check_mark:
 [Jusbrasil](https://www.jusbrasil.com.br/home) | https://jobs.lever.co/jusbrasil | :x: | :heavy_check_mark:
 [Magrathea](https://magrathealabs.com/) | https://careers.magrathealabs.com/ | :x: | :heavy_check_mark:
