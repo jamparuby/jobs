@@ -1,4 +1,4 @@
-## List of Companies using Ruby / RoR
+## RoR opportunities for those who live in João Pessoa
 
 Company | Jobs | Office | Remote
 ------- | ----- | ---------- | -------
