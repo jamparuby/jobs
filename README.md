@@ -28,7 +28,7 @@ Company | Jobs | Office | Remote
 [Pier Digital](https://www.pier.digital/) | https://careers.pier.digital/ | :x: | :heavy_check_mark:
 [QConcursos](https://www.qconcursos.com/) | https://www.linkedin.com/company/qconcursos/jobs/ | :x: | :heavy_check_mark:
 [Repassa](https://www.repassa.com.br/) | https://repassa.gupy.io/ | :x: | :heavy_check_mark:
-[Resultados Digitais](https://resultadosdigitais.com.br/) | https://boards.greenhouse.io/resultadosdigitais | :x: | :heavy_check_mark:
+[RD Station](https://resultadosdigitais.com.br/) | https://boards.greenhouse.io/rdstation | :x: | :heavy_check_mark:
 [Shopify](https://www.shopify.com/) | https://www.shopify.com/careers | :x: | :heavy_check_mark:
 [Sólides](https://solides.com.br/) | https://solides.solides.jobs/ | :x: | :heavy_check_mark:
 [SOVOS](https://sovos.com/) | https://sovos.com/careers/ | :x: | :heavy_check_mark:
