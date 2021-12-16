@@ -21,6 +21,7 @@ Company | Jobs | Office | Remote
 [Jaya Tech](https://jaya.tech/) | https://www.linkedin.com/company/jaya-apps/jobs | :x: | :heavy_check_mark:
 [Jungle Scout](https://www.junglescout.com/) | https://junglescout.applytojob.com/ | :x: | :heavy_check_mark:
 [Jusbrasil](https://www.jusbrasil.com.br/home) | https://jobs.lever.co/jusbrasil | :x: | :heavy_check_mark:
+[Local Labs](https://locallabs.com/) | https://locallabs.com/careers | :x: | :heavy_check_mark:
 [Magrathea](https://magrathealabs.com/) | https://careers.magrathealabs.com/ | :x: | :heavy_check_mark:
 [Monde Sistemas](https://monde.com.br/) | https://monde.com.br/vagas/ | :x: | :heavy_check_mark:
 [Novatics](https://novatics.com.br/) | https://novatics.com.br/open-jobs | :x: | :heavy_check_mark:
