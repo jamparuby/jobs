@@ -35,6 +35,7 @@ Company | Jobs | Office | Remote
 [Shopify](https://www.shopify.com/) | https://www.shopify.com/careers | :x: | :heavy_check_mark:
 [Sólides](https://solides.com.br/) | https://solides.solides.jobs/ | :x: | :heavy_check_mark:
 [SOVOS](https://sovos.com/) | https://sovos.com/careers/ | :x: | :heavy_check_mark:
+[thoughtbot](https://thoughtbot.com/) | https://thoughtbot.com/jobs | :x: | :heavy_check_mark:
 [Vindi](https://vindi.com.br/) | https://vindi.gupy.io/ | :x: | :heavy_check_mark:
 [Virtualmind](https://virtualmind.com/) | https://careers.virtualmind.com/ | :x: | :heavy_check_mark:
 [Vortigo](https://vortigo.digital/) | https://vortigo.gupy.io/ | :x: | :heavy_check_mark:
