@@ -9,6 +9,7 @@ Company | Jobs | Office | Remote
 [Local Labs](https://locallabs.com/) | https://locallabs.com/careers | :heavy_check_mark: | :heavy_check_mark:
 [Reliant Solutions](https://reliantsolutions.com) | https://hipsters.jobs/company/68/reliant-solutions/ | :heavy_check_mark: | :x:
  ------- | ------- | ------- | -------
+[BEON.tech](https://beon.tech/engineers) | https://beon.tech/remote-jobs | :x: | :heavy_check_mark:
 [Bio Ritmo & Smart Fit](https://www.smartfit.com.br/) | https://www.linkedin.com/company/smart-fit/jobs/ | :x: | :heavy_check_mark:
 [Caiena](https://caiena.net/) | https://trabalheconosco.vagas.com.br/caiena | :x: | :heavy_check_mark:
 [EBANX](https://www.ebanx.com/) | https://boards.greenhouse.io/ebanx | :x: | :heavy_check_mark:
