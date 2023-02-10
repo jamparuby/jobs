@@ -13,6 +13,7 @@ Company | Jobs | Office | Remote
 [Bio Ritmo & Smart Fit](https://www.smartfit.com.br/) | https://www.linkedin.com/company/smart-fit/jobs/ | :x: | :heavy_check_mark:
 [Caiena](https://caiena.net/) | https://trabalheconosco.vagas.com.br/caiena | :x: | :heavy_check_mark:
 [EBANX](https://www.ebanx.com/) | https://boards.greenhouse.io/ebanx | :x: | :heavy_check_mark:
+[ElectionBuddy](https://electionbuddy.com/) | https://electionbuddy.com/careers/ | :x: | :heavy_check_mark:
 [Enjoei](https://www.enjoei.com.br/) | https://enjoei.gupy.io/ | :x: | :heavy_check_mark:
 [Fundação Estudar](https://www.estudar.org.br/) | https://www.estudar.org.br/carreiras/ | :x: | :heavy_check_mark:
 [iCasei](https://www.icasei.com.br/) | https://suporte.icasei.com.br/hc/pt-br/requests/new | :x: | :heavy_check_mark:
